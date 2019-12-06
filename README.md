@@ -1,2 +1,2 @@
 # PlanetLabProject
-Final project for course ICSI 516: Analysis nodes connection from different continent 
+Final project for course ICSI 516: Internet path analysis using PlanetLab
